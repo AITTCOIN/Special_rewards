@@ -25,8 +25,9 @@ Compensation Details:
 
     Each user who submits an issue with their AITT wallet address as the title will receive compensation tokens.
     This event will last for 3 days starting from the announcement date.
-
-   
+    This event lasts for 3 days, which means we will only accept statements within 3 days. All tokens will be distributed to everyone after counting. 
+    The total amount of special reward tokens is downtime (hours) 6*3600*5000*2 /15 = 14400000 .
+       
 
 We sincerely thank you for your support and cooperation.
 Thank you for being a valued part of the AITT community.
